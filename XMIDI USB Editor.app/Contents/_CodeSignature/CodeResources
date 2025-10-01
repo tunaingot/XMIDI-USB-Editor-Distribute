@@ -18,11 +18,11 @@
 		</data>
 		<key>Resources/Base.lproj/CChMappingView.nib</key>
 		<data>
-		L6o9I7MFCym4ofiuXqz94FEGq2A=
+		MqTYe/X2tFjgfRB7EvCYhXlaULE=
 		</data>
 		<key>Resources/Base.lproj/CFilterView.nib</key>
 		<data>
-		5mw/+1Iiczofe1U9n9FoTI6g4NY=
+		zL70zxL4L0f2u6LmblBHJMY+0OM=
 		</data>
 		<key>Resources/Base.lproj/CKeyRangeView.nib</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Resources/Base.lproj/CMIDIDeviceList.storyboardc/Info.plist</key>
 		<data>
-		oA+k8iInpl1Ni1OLWnr8fmd9P0Q=
+		pvVsA91msc95lX0C1VFbFYYtOOo=
 		</data>
 		<key>Resources/Base.lproj/CMIDIDeviceList.storyboardc/NSViewController-bU7-R8-ocO.nib</key>
 		<data>
-		mhihG1JcVFd9Oiqkl+cZLTF9YI0=
+		t4rZ1i/aDn4s1ejQ0kG0UtGiF5g=
 		</data>
 		<key>Resources/Base.lproj/CMIDIDeviceList.storyboardc/bU7-R8-ocO-view-tOy-S4-hL0.nib</key>
 		<data>
@@ -42,31 +42,31 @@
 		</data>
 		<key>Resources/Base.lproj/CPatchSelect.storyboardc/Info.plist</key>
 		<data>
-		cZBWxZ8i2UTuZo/Fdf+vli/NCz8=
+		z579dTxWQUabP47F3OvXXXAnRbQ=
 		</data>
 		<key>Resources/Base.lproj/CPatchSelect.storyboardc/NSViewController-bU7-R8-ocO.nib</key>
 		<data>
-		ROY+p1GN2ASRxwj/Y/gYgcrtArE=
+		ybzVoLxX3+02my8zudABVFFNNU8=
 		</data>
 		<key>Resources/Base.lproj/CPatchSelect.storyboardc/bU7-R8-ocO-view-tOy-S4-hL0.nib</key>
 		<data>
-		RxYF43KN9Y0FjwNWRSy8qJy4VhM=
+		DxjXFQFRkuo6jsfj6AvCFa/5pkk=
 		</data>
 		<key>Resources/Base.lproj/CRoutingView.nib</key>
 		<data>
-		LEIlHVHz1DoopqEH7j3C6LS4Wf0=
+		iqHjSArVo/qGdmjnWNKMWoRs/EI=
 		</data>
 		<key>Resources/Base.lproj/CSettingWindow.storyboardc/CSettingWindowController.nib</key>
 		<data>
-		uPdWiVLgAE/T3ZzfqCcYGSow/qM=
+		jCGd9V35oCm8/joSo6L7siI95bk=
 		</data>
 		<key>Resources/Base.lproj/CSettingWindow.storyboardc/Info.plist</key>
 		<data>
-		95T8GAeR0xQp9IurQ+xBiP7IGQo=
+		GscioNX8UjPaLSFS/2LTf1LqMCQ=
 		</data>
 		<key>Resources/Base.lproj/CSettingWindow.storyboardc/NSViewController-tc4-1x-ieX.nib</key>
 		<data>
-		zNiaeDN9e+0I4IXAYLLoihkbTFo=
+		9jNPr5EqWGlzPFnUvAKAffpOX4o=
 		</data>
 		<key>Resources/Base.lproj/CSettingWindow.storyboardc/tc4-1x-ieX-view-1Il-uC-YLk.nib</key>
 		<data>
@@ -74,15 +74,15 @@
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		yDstI5bdtCpu9STxm7ElGgKYh00=
+		MlBqM7mwXntKtQEUo8wMHvKm+tY=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		Z/Dolq4Kfh/3pDZLG3nsZGw/pbU=
+		IVKssbur9uTiRDk//GJlfXCJ/LM=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<data>
-		QlgVO9I7YaycTEjQFfWiCqxL2ek=
+		5znnREgOSA3bWLpvvVwVwXdOSow=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-qP6-Fy-Hvb.nib</key>
 		<data>
@@ -171,7 +171,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9qLynzs3dEvObpWVuLftxdcQV7I=
+			OdHRug+U3W7Qcp455zVIHmD8f4w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -213,14 +213,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wl/D8LmlwVHWIIodXxW1Ovz8+fZCqoGCfwUf5S0sbTA=
+			8i4HzNFh8jGmXGrtBYWYz9x0dNfh1s9DrD/EpltiGQY=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/CFilterView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H1dZDFSzSFoqObZk78DAF6aqPOM48n5pPq0jOdhSk1k=
+			qugWSGGs7i9UPU99/8C55ML4zHxKWd8tXW8hFAi/i9s=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/CKeyRangeView.nib</key>
@@ -234,14 +234,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+AMFWeywW0lLtqoTxBLgiD2TWZrKmoI59FvEZHHl5z8=
+			aSurjbvSrJGAIwp+d9Tf9H+K9jCjlTkuyRTcvYxV5zI=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/CMIDIDeviceList.storyboardc/NSViewController-bU7-R8-ocO.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			elyAbWY+E9eWuTPIYcdfUBZrVy8qMpg0xXw0Pmj1bfY=
+			B69Gw8WCAyz+f6rTczgDxmRl8pjlMK1HEs6eQRLlpxc=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/CMIDIDeviceList.storyboardc/bU7-R8-ocO-view-tOy-S4-hL0.nib</key>
@@ -255,49 +255,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ba/6ho6HLZ8Gw7331MKLcWX1uI7mumaGjv9YBBGQ9CQ=
+			gSuQYeYJapX760VTtktAHAhZeUrCm6dgJ7hpzmyGyko=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/CPatchSelect.storyboardc/NSViewController-bU7-R8-ocO.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XeqrmygZiPOfVb6N8oKa1e7+EGEr88m1SClqHv1ENlQ=
+			NmBJas8/sYhGxYhR+5ytkgtaMF3+xEpHwWL0hVsAAEU=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/CPatchSelect.storyboardc/bU7-R8-ocO-view-tOy-S4-hL0.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JxrJoiF6lIw4//F4alOqagPi1QYYOBRth6dsu68XWQE=
+			ojGGdyDgm63mLC4QtxCE3+AnPd4MzGwPZcrgPDbKHmI=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/CRoutingView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UEDll7xsl2bWThWv6uE0KLdjs0KFje4Drxiz/9Dh5Qs=
+			US6HMrX6idlZt3BPO2PrL6sYn0O0pHj0wGqpPOsLxRA=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/CSettingWindow.storyboardc/CSettingWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mOPRcpsr4eEE9yZwWof/libAlgYZzWuchr2D2pbtR/4=
+			r+xV78W45bEYA4uBUGSheYpFKMz58y+TFNN7zFD2cJc=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/CSettingWindow.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O85oO7qAJ31AipbB+DxNJd96G+70b7pq11Q2Lg+twV8=
+			au1p2yX4FDWqDhX4unKTxd2TZ8nk3qz3zX5E2FjCZkc=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/CSettingWindow.storyboardc/NSViewController-tc4-1x-ieX.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P/hq8TpXFVJkJs5kG0tDHeDyabAHOBXIT1/QkLo962A=
+			lcZnkKwTpvb8SG8+SeHFE+fB4FCa9rP+iMZN4nE3ufM=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/CSettingWindow.storyboardc/tc4-1x-ieX-view-1Il-uC-YLk.nib</key>
@@ -311,21 +311,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vSv8cpTA1HxZu0YS7uogpKklDsm3RCyFulXsHryBigo=
+			qnrI68b4MTaVzUzsPoSAyC1NWgSfYkisrto+qTelisg=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pgKVhlSzWkYIcuD1IVYAWgR2fZlQuLeeSJYYi/1dmVA=
+			jwxZMzMV+ENIAF4kaF4BIPfaHmFqyTfTdberSOBVlFE=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JB/2I18hhpG1B/J4Lx/sHMiYzZBPfyMBXGMoBNemwiQ=
+			pZxC7BeaiTV4Bh5npQfUFdJJQPv7QB6xH/gm2pag01c=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-qP6-Fy-Hvb.nib</key>
@@ -430,7 +430,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mq+gG2i0ShNYhSftuUHhZ3vAnIZwYgzzc7zzaug+LXE=
+			pb9qGm2b8uzNVDp5YFZh4OebFPxWISQsCfi6EZtExHo=
 			</data>
 			<key>optional</key>
 			<true/>
