@@ -4,7 +4,7 @@
 
 アプリのメニューバー「ヘルプ＞XMIDI USB Editorヘルプ」を選択すると、このウェブサイトが開きます。\
 最新のアプリ、およひ古いバージョンのアプリは、このページの右側の ***Release*** からもダウンロードできます。\
-**XMIDI USB Editor.app.zip**をクリックするとダウンロードできます。\
+**XMIDI.USB.Editor.app.zip**をクリックするとダウンロードできます。\
 <img width="683" height="466" alt="スクリーンショット 2025-09-29 20 13 48" src="https://github.com/user-attachments/assets/cefe42c5-9c5a-4622-9b9c-cd65e4583b4b" />
 
 # 動作環境
