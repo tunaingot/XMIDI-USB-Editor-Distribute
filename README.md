@@ -7,7 +7,7 @@
 最新のアプリ、およひ古いバージョンのアプリは、このページの右側の ***Release*** からもダウンロードできます。\
 リリースのページで、「**XMIDI.USB.Editor.app.zip**」をクリックするとダウンロードできます。
 
-<img width="636" height="516" alt="スクリーンショット 2025-10-12 20 48 28" src="https://github.com/user-attachments/assets/280de383-8269-4298-90f7-5b2b3c550e00" />
+<img width="636" height="516" alt="説明" src="images/100.png" />
 
 # 動作環境
 - 対応OS：macOS 13.5以上
@@ -18,19 +18,23 @@
 XMIDI USB Editorはプログラムモードで使う場合の設定を編集するアプリです。\
 XMIDI4 USBをプログラムモードにするには、側面ディップスイッチの2番をONにします。
 
-<img width="218" height="111" alt="image" src="https://github.com/user-attachments/assets/14fcef1c-9339-46ba-8882-a3ead38c55c6" />
+<img width="218" height="111" alt="説明" src="images/200.png" />
 
 # アプリの起動と初期状態
 XMIDI4 USBをMacに接続した状態でXMIDI USB Editorを起動すると、即座に現在選択されているパッチが画面に反映されます。\
 その際、ウィンドウ右下に「テンポラリパッチ同期済み」と表示されます。\
-<img width="418" height="434" alt="スクリーンショット 2025-09-30 15 32 10" src="https://github.com/user-attachments/assets/a667d2ba-8a68-46e4-a920-2af0b45d40f0" />
+
+<img width="418" height="434" alt="image" src="images/300.png" />
 
 XMIDI4 USBを後からMacに接続した場合、Macが接続を検出するとパッチが画面に反映されます。\
-それまでは、ウィンドウ右下が「テンポラリパッチの同期待ち」と表示されます。\
-<img width="418" height="434" alt="スクリーンショット 2025-09-30 15 37 09" src="https://github.com/user-attachments/assets/afa35a56-9cc0-4e01-b0ab-f2b7e954d858" />
+それまでは、ウィンドウ右下が「テンポラリパッチの同期待ち」と表示されます。
 
-ウィンドウのツールバー領域には、現在選択されているパッチの番号が表示されます。\
-<img width="418" height="434" alt="スクリーンショット 2025-09-30 15 39 04" src="https://github.com/user-attachments/assets/34169a81-e955-4ba1-97b9-7d3c5de0faf6" />
+<img width="418" height="434" alt="image" src="images/400.png" />
+
+ウィンドウのツールバー領域には、現在選択されているパッチの番号が表示されます。
+
+<img width="418" height="434" alt="image" src="images/500.png" />
+
 # 設定データの編集
 緑色のチェックが付いているものが通過するデータ、チェックが付いていないものはミュートされるデータです。\
 項目、チャンネル個別に設定ができます。\
@@ -38,16 +42,17 @@ XMIDI4 USBを後からMacに接続した場合、Macが接続を検出すると�
 この変更は即座にUSBでXMIDI4 USBへ送られ、設定が反映されます。
 
 表の外側をクリックすると、行、列をまとめてチェックの入/切ができます。\
-表の外側の角をクリックすると、表内すべてのチェックの入/切ができます。\
-<img width="418" height="434" alt="スクリーンショット 2025-09-30 15 41 52" src="https://github.com/user-attachments/assets/4886ee67-8634-47fd-8f21-097dcde611c2" />
+表の外側の角をクリックすると、表内すべてのチェックの入/切ができます。
+
+<img width="418" height="434" alt="image" src="images/600.png" />
+
 
 # XMIDI4 USBのメモリ構成
 XMIDI USB Editorの画面で編集しているのはテンポラリパッチです。\
 編集中のパッチをメモリストアすると、メモリーの中に保存されます。\
 ストレージへのストアはすべての作業が終わってから実行するといいでしょう。
 
-<img width="505" height="237" alt="image" src="https://github.com/user-attachments/assets/65f2907e-90b2-4151-a8e0-d78fb06d478f" />
-
+<img width="505" height="237" alt="image" src="images/700.png" />
 
 # XMIDI4 USBの個別設定
 XMIDI4 USBのパッチは
@@ -65,8 +70,9 @@ XMIDI4 USBのパッチは
 - コントロール・チェンジ：85
 
 になっています。\
-構成する楽器類のシステムに合わせて、自由に変更可能です。\
-<img width="407" height="383" alt="スクリーンショット 2025-09-30 16 04 36" src="https://github.com/user-attachments/assets/a3f3ffe4-cbce-47b3-80bc-74fff169696b" />
+構成する楽器類のシステムに合わせて、自由に変更可能です。
+
+<img width="407" height="383" alt="image" src="images/800.png" />
 
 # ダウンロード/アップロード
 32あるパッチデータをダウンロードし、ファイルとして保存しておくことができます。\
