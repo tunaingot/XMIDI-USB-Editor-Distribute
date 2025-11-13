@@ -30,25 +30,28 @@ XMIDI4 USB本体の設定には**ポート5**を使います。
 
 **アプリの送信/受信のポートには5番目のポートを選択してください**。
 
-<img width="545" height="526" alt="image" src="images/250.png" />
+<img width="624" height="456" alt="image" src="images/270.png" />
 
 ## アプリの初期状態
 XMIDI4 USBをMacに接続した状態でXMIDI USB Editorを起動すると、即座に現在選択されているパッチが画面に反映されます。\
 その際、ウィンドウ右下に「テンポラリパッチ同期済み」と表示されます。
 
-<img width="418" height="434" alt="image" src="images/300.png" />
+<img width="556" height="456" alt="image" src="images/350.png" />
 
 XMIDI4 USBを後からMacに接続した場合、Macが接続を検出するとパッチが画面に反映されます。\
 それまでは、ウィンドウ右下が「テンポラリパッチの同期待ち」と表示されます。
 
-<img width="418" height="434" alt="image" src="images/400.png" />
+<img width="556" height="456" alt="image" src="images/450.png" />
 
 ウィンドウのツールバー領域には、現在選択されているパッチの番号が表示されます。
 
-<img width="418" height="434" alt="image" src="images/500.png" />
+<img width="556" height="456" alt="image" src="images/550.png" />
 
 # 設定データの編集
 ## データ編集
+編集する項目はウィンドウ左側のサイドバーで選択します\
+<img width="556" height="456" alt="image" src="images/605.png" />
+
 緑色のチェックが付いているものが通過するデータ、チェックが付いていないものはミュートされるデータです。\
 項目、チャンネル個別に設定ができます。\
 設定項目のマスの中をマウスでクリックすると、チェックの入/切ができます。\
@@ -57,10 +60,12 @@ XMIDI4 USBを後からMacに接続した場合、Macが接続を検出すると�
 表の外側をクリックすると、行、列をまとめてチェックの入/切ができます。\
 表の外側の角をクリックすると、表内すべてのチェックの入/切ができます。
 
-<img width="418" height="434" alt="image" src="images/600.png" />
+<img width="556" height="456" alt="image" src="images/610.png" />
+
 
 ## パッチ名をつけてメモリーへ保存
-<img width="565" height="315" alt="image" src="images/650.png" />
+<img width="559" height="324" alt="image" src="images/670.png" />
+
 
 パッチに**16文字**までで名前をつけることができます。\
 使える文字は**半角英数のみ**です。
@@ -109,9 +114,10 @@ XMIDI USB本体にはディスプレイがありません。\
 
 を表示する機能があります。\
 「ウィンドウ＞ライブディスプレイ」を選択すると、大きな文字でこれらを表示するウィンドウが現れます。\
-ステージなどで自身の近くにMacBookなどを置いておけば、XMIDI4 USB本体の状態を確認できます。
+ステージなどで自身の近くにMacBookなどを置いておけば、XMIDI4 USB本体の状態を確認できます。\
+フルスクリーンにも対応しています。
 
-<img width="619" height="373" alt="image" src="images/1000.png" />
+<img width="753" height="430" alt="image" src="images/1050.png" />
 
 
 # ダウンロード/アップロード
